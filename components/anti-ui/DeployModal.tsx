@@ -74,7 +74,7 @@ export function DeployModal({ isOpen, onClose, data }: DeployModalProps) {
                         </div>
                         <div className="mt-4 pt-4 border-t border-green-500/20 text-center">
                             <a
-                                href="https://github.com/miriamabbate/anti-portfolio-engine" // Dummy link as requested
+                                href="https://github.com/miriam-design/anti-portfolio-engine" // Dummy link as requested
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center hover:underline uppercase text-xs font-bold"
