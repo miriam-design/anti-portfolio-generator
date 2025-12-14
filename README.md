@@ -6,6 +6,8 @@ This is the Generation Tool for the Anti-Portfolio project.It is an AI-powered w
 
 The Output: A dna.json file that acts as the "soul" for the 3D Rendering Engine.
 
+Try it online: https://cerulean-crumble-3253f4.netlify.app/
+
 ⚡ Prerequisites
 Before you start, you need two things
 1. Node.js 18+ installed on your machine.
