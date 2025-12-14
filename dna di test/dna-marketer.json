@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "headline": "Data. Persuasion. ROI.",
+    "subheadline": "Amplifying brands with ruthless efficiency."
+  },
+  "about": {
+    "story": "Sofia is a growth strategist with a track record of turning data into tangible results. From scaling startups to revitalizing established brands, she leverages a blend of SEO, copywriting, and data analysis to drive conversions and maximize ROI. She's seen it all, and she's not afraid to call BS.",
+    "anti_traits": [
+      "Vanity Metrics",
+      "Gut Feelings",
+      "Viral Chasing"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Crowdfunding Launch",
+      "description": "Orchestrated a crowdfunding campaign that exceeded its goal by 300% in 48 hours, proving the power of targeted messaging and strategic timing.",
+      "link": "",
+      "tech_or_tools": [
+        "Google Analytics",
+        "Crowdfunding Platform"
+      ]
+    },
+    {
+      "title": "Organic Traffic Surge",
+      "description": "Built a content marketing strategy that propelled organic traffic from zero to 100,000 monthly visits within a year, demonstrating the long-term value of SEO.",
+      "link": "",
+      "tech_or_tools": [
+        "Google Analytics",
+        "Looker",
+        "SEO Tools"
+      ]
+    }
+  ],
+  "methodology": {
+    "name": "The Conversion Crucible",
+    "steps": [
+      {
+        "title": "Data Inquisition",
+        "description": "Scrutinize existing data to identify opportunities and validate assumptions. No sacred cows."
+      },
+      {
+        "title": "Hypothesis Forge",
+        "description": "Craft targeted hypotheses based on data insights. Small, testable, and brutally honest."
+      },
+      {
+        "title": "Iterative Combustion",
+        "description": "Launch rapid experiments (MVPs), analyze results, and ruthlessly eliminate what doesn't convert. Repeat."
+      }
+    ]
+  },
+  "failures": {
+    "title": "Failures & Lessons",
+    "stories": [
+      {
+        "failure": "Spent 60% of the annual budget on an influencer marketing campaign with a celebrity who had zero relevance to the product. Result: near-zero sales.",
+        "lesson": "Relevance trumps reach. Micro-influencers with engaged, targeted communities deliver far superior results than celebrity endorsements."
+      }
+    ]
+  },
+  "personal_side": {
+    "loves": [
+      "A/B Testing",
+      "Funnel Optimization",
+      "Data Visualization"
+    ],
+    "hates": [
+      "Vanity Metrics",
+      "Unsolicited Advice",
+      "Buzzwords"
+    ]
+  },
+  "visual_dna": {
+    "geometry_type": "pyramid",
+    "material_type": "metal",
+    "texture_style": "clean",
+    "movement_speed": "medium",
+    "colors": {
+      "primary": "#007bff",
+      "secondary": "#ffc107",
+      "bg": "#121212"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Per vedere i portfolio di esempio mantenere solo dna.json come nome del file e usarlo nella cartella public del progetto anti-portfolio-engine

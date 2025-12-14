@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "headline": "Interface Alchemist.",
+    "subheadline": "Turning empathy into pixels, one usability nightmare at a time."
+  },
+  "about": {
+    "story": "Elena Bianchi is a Senior UI/UX Designer and Art Director, fluent in Figma and fluent in the language of frustrated users. She translates abstract concepts into interfaces, and occasionally, into cautionary tales. Her experience spans fintech startups to established agencies, always with a healthy dose of skepticism.",
+    "anti_traits": [
+      "Blind optimism",
+      "Vanity metrics",
+      "The 'because I said so' design philosophy"
+    ]
+  },
+  "projects": [
+    {
+      "title": "SafePay Redesign",
+      "description": "Resurrected a failing banking app with a 40% retention boost. Proved that even finance needs to be usable.",
+      "link": "",
+      "tech_or_tools": [
+        "Figma",
+        "Sketch",
+        "UserTesting"
+      ]
+    },
+    {
+      "title": "Jazz Festival Branding",
+      "description": "Created a visual identity for an international jazz festival. Successfully avoided clichés.",
+      "link": "",
+      "tech_or_tools": [
+        "Adobe Illustrator",
+        "Adobe Photoshop"
+      ]
+    }
+  ],
+  "methodology": {
+    "name": "The Double Diamond of Doubt",
+    "steps": [
+      {
+        "title": "Discovery (The Excavation)",
+        "description": "Unearthing user needs, often buried under layers of stakeholder delusion."
+      },
+      {
+        "title": "Definition (The Synthesis of Suffering)",
+        "description": "Distilling the core problem, acknowledging the inevitable compromises."
+      },
+      {
+        "title": "Development (The Wireframe Wasteland)",
+        "description": "Rapid prototyping and iterative testing, fueled by caffeine and existential dread."
+      },
+      {
+        "title": "Delivery (The Moment of Truth)",
+        "description": "Releasing the design into the wild, bracing for impact."
+      }
+    ]
+  },
+  "failures": {
+    "title": "Failures & Lessons",
+    "stories": [
+      {
+        "failure": "Designed a minimalist logistics app interface that was unusable for truckers due to tiny buttons and poor contrast in sunlight. It was beautiful, though.",
+        "lesson": "Aesthetics are irrelevant if people can't use the damn thing. User testing isn't optional; it's a survival mechanism."
+      }
+    ]
+  },
+  "personal_side": {
+    "loves": [
+      "Kinetic typography",
+      "Negative space",
+      "Inclusive accessibility",
+      "Color-coded post-its",
+      "Specialty coffee"
+    ],
+    "hates": [
+      "'Make the logo bigger'",
+      "Vague briefs",
+      "Un-named files",
+      "Meetings without agendas"
+    ]
+  },
+  "visual_dna": {
+    "geometry_type": "fluid-orb",
+    "material_type": "glass",
+    "texture_style": "clean",
+    "movement_speed": "slow",
+    "colors": {
+      "primary": "#66b3ff",
+      "secondary": "#444444",
+      "bg": "#1a1a1a"
+    }
+  }
+}

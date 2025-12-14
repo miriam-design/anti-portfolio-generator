@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "headline": "Code. Logic. Domination.",
+    "subheadline": "Architecting systems while silently judging your spaghetti."
+  },
+  "about": {
+    "story": "Marco Valenti is a Tech Lead who builds scalable software architectures and debugs production nightmares. A veteran backend developer and open-source contributor, he wields Python and React with surgical precision. He tolerates meetings, but only as a necessary evil.",
+    "anti_traits": [
+      "Unnecessary Complexity",
+      "Premature Optimization",
+      "Uncommented Code"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Microservices Migration",
+      "description": "Resurrected a monolithic e-commerce platform, handling 1M users, by surgically extracting microservices. The screams of the legacy code still echo.",
+      "link": "",
+      "tech_or_tools": [
+        "Python",
+        "React",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "title": "Data Validation Library",
+      "description": "A lean, mean data validation library that's been downloaded 50,000 times. It's probably preventing some serious data corruption out there.",
+      "link": "",
+      "tech_or_tools": [
+        "Python",
+        "Open Source"
+      ]
+    }
+  ],
+  "methodology": {
+    "name": "The Test-Driven Inquisition",
+    "steps": [
+      {
+        "title": "Define the Suffering",
+        "description": "Write the tests *first*. Let them dictate the code's miserable existence."
+      },
+      {
+        "title": "Code to Atone",
+        "description": "Write the code to pass the tests. No more, no less. Efficiency is paramount."
+      },
+      {
+        "title": "Review the Heresy",
+        "description": "Rigorous code review. Crush any deviation from the established dogma."
+      }
+    ]
+  },
+  "failures": {
+    "title": "Failures & Lessons",
+    "stories": [
+      {
+        "failure": "Accidentally dropped the production database on a Friday afternoon.",
+        "lesson": "Backups are not optional. Permissions are your only friends. Redundancy is the only path to salvation. And *never* deploy on a Friday."
+      }
+    ]
+  },
+  "personal_side": {
+    "loves": [
+      "Dark Mode",
+      "Mechanical Keyboards",
+      "Clean Code",
+      "CI/CD"
+    ],
+    "hates": [
+      "Spaghetti Code",
+      "Interruptions",
+      "Last-Minute Changes",
+      "Printer Troubleshooting"
+    ]
+  },
+  "visual_dna": {
+    "geometry_type": "tech-pill",
+    "material_type": "metal",
+    "texture_style": "clean",
+    "movement_speed": "medium",
+    "colors": {
+      "primary": "#282c34",
+      "secondary": "#61afef",
+      "bg": "#1e1e1e"
+    }
+  }
+}
