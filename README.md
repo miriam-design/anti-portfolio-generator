@@ -7,6 +7,9 @@ This is the Generation Tool for the Anti-Portfolio project.It is an AI-powered w
 The Output: A dna.json file that acts as the "soul" for the 3D Rendering Engine.
 
 Online test without AI generation: https://cerulean-crumble-3253f4.netlify.app/
+Visit the example DNA of a marketer: https://totem3d-marketer.netlify.app/
+Visit the example DNA of a designer: https://totem3d-designer.netlify.app/
+Visit the example DNA of a developer: https://totem3d-developer.netlify.app/
 
 ⚡ Prerequisites
 Before you start, you need two things
